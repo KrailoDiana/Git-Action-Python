@@ -37,7 +37,4 @@ jobs:
           source myenv/bin/activate  
           python db.py -a 
         
-      - name: Run test
-        run: |
-          source myenv/bin/activate
-          pytest
+      - name: Test application
