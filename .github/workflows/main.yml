@@ -38,3 +38,5 @@ jobs:
           python db.py -a 
         
       - name: Test application
+        run: | 
+          echo "No tests"
