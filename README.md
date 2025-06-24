@@ -1,3 +1,4 @@
+[![Python pipeline](https://github.com/KrailoDiana/Git-Action-Python/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/KrailoDiana/Git-Action-Python/actions/workflows/main.yml)
 # Flask Product API
 
 This is a simple Flask API for managing product data. The API allows you to perform basic CRUD (Create, Read, Update, Delete) operations on products.
